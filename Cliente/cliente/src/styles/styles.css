@@ -1,0 +1,7 @@
+.button-container {
+    display: flex;
+  }
+  
+  .button {
+    margin-right: 10px; /* Ajusta la cantidad de separación deseada */
+  }
